@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/pih/scalaProject/funsets/project/}funsets-build...
+[info] Updating {file:/Users/pih/learningscala/funsets/project/}funsets-build...
 [debug] :: resolving dependencies :: default#funsets-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -2817,19 +2817,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.5!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1773ms :: artifacts dl 53ms
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT compile produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-compile.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT runtime produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-runtime.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT test produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-test.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT provided produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-provided.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT optional produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-optional.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT compile-internal produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-compile-internal.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT runtime-internal produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-runtime-internal.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT test-internal produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-test-internal.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT plugin produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-plugin.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT sources produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-sources.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT docs produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-docs.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT pom produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-pom.xml
-[debug] 	report for default#funsets-build;0.1-SNAPSHOT scala-tool produced in /Users/pih/scalaProject/funsets/project/target/resolution-cache/reports/default-funsets-build-scala-tool.xml
-[debug] 	resolve done (1773ms resolve - 53ms download)
+[debug] :: resolution report :: resolve 1697ms :: artifacts dl 37ms
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT compile produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-compile.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT runtime produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-runtime.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT test produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-test.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT provided produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-provided.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT optional produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-optional.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT compile-internal produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-compile-internal.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT runtime-internal produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-runtime-internal.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT test-internal produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-test-internal.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT plugin produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-plugin.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT sources produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-sources.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT docs produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-docs.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT pom produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-pom.xml
+[debug] 	report for default#funsets-build;0.1-SNAPSHOT scala-tool produced in /Users/pih/learningscala/funsets/project/target/resolution-cache/reports/default-funsets-build-scala-tool.xml
+[debug] 	resolve done (1697ms resolve - 37ms download)
 [info] Done updating.
